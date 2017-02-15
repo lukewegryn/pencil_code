@@ -8,7 +8,7 @@
     - Student guide
     - Storage for completed cards
 - Previous weeks cards
-- Roapmap to WOW!
+- Road map to WOW!
 - Expectations poster
 - Word wall
 - Stickers (simple)
@@ -42,7 +42,7 @@
     - Our names
     - Why we volunteered
     - How we use computers
-- **Shareback** circle
+- **Share back** circle
     - Explain activity
         - toss each student the ball
         - introduce themselves
@@ -84,13 +84,13 @@
     - Realize a product or ideas that suits a given purpose
     - Implement problem solutions using a programming language including: looping behavior, conditional statements, logic, expressions, variables, and functions
 - Be creative while learning from computer code
-- WOW! portfoilio will be a program from each week AND final project
+- WOW! portfolio will be a program from each week AND final project
 - Transition to expectations
 
 ### Activity 1: Expectations (3:45pm, Luke)
 
 - Include both apprenticeship specific and general campus specific expectations
-- Let's establish expecations on how we will interact
+- Let's establish expectations on how we will interact
 - **Facilitate** what will make a great environment?
     - How do we want to be treated? and NOT 
     - What do we want to see or hear? and NOT
@@ -98,7 +98,7 @@
     - Put own expectations
         - Contribute during group time
         - Work quietly
-        - Doesn't interupt others
+        - Doesn't interrupt others
         - Stay on task
         - Shares ideas
         - Computer use
@@ -118,10 +118,10 @@
     - Encourage laughter
 - **Debrief**
     - What is difficult about giving instructions?
-    - Expecation vs what happened
+    - Expectation vs what happened
 - **Say**
     - We will have Pencil Code Cards in this apprenticeship
-    - Each card will challenge you to create a piece of code (intructions)
+    - Each card will challenge you to create a piece of code (instructions)
     - We are going to try human coding now
         - Show a human coding card, and demonstrate how to follow it
 - **Facilitate**
@@ -136,13 +136,13 @@
     - Explain the stickers
     - **Place** a sticker in each student's folder on `Badge #1: Human Coding!`
     - **Highlight** badges that student can learn today
-    - Make a **BIG** deal about challenges and badges. Consider bigger reqard for completing all 6 badges.
+    - Make a **BIG** deal about challenges and badges. Consider bigger reward for completing all 6 badges.
     - Transition back to **Pencil Code**
 
 
 ### Activity 3: Drawing and Cards (4:20pm, Luke and Sally)
 
-- Review expecations for computer use
+- Review expectations for computer use
 - Teach any procedures for getting on the computers
     - Assign Seats
     - Explain difference between **teacher talk** and **individual work**
@@ -157,8 +157,8 @@
     4. Wrap up work
     5. Shutdown computers, put away folders
 - Introduce students to pencil code
-    - Lead students through creating usernames and passwords
-    - Keep a copy of all student username in excel doc
+    - Lead students through creating user names and passwords
+    - Keep a copy of all student user name in excel doc
 - Show Tutorial 1 video (demonstrate how to drag and drop blocks of code, how to modify parameters)
     - Word wall
         - Program
@@ -195,16 +195,16 @@
 
 - **Say**
     - Sometimes we have handout to turn in
-    - In addition, you will pick one project each week to save as your assesment
+    - In addition, you will pick one project each week to save as your assessment
     - Should be what you are most proud of
 - **Pick** that project now
     - Save it as `week1/assessment`
 - In student folder, fill out `Week 1 Assessment` in the `Work Product Assessment section`
-    - Walk students through how to fill out `Week 1 Assessment`
+    - Walk students through how to fill out `Week 1 Assessmentt`
 - **Say**
     - Before next week I will check out your work and give you feedback
     - Next week we will get to share some of our work with each other
-    - We will learn new programming techniques and have new crads
+    - We will learn new programming techniques and have new cards
 - **Connect to WOW!** (each week they pick what they are most proud of and they have a final project)
     - Ask if anyone remembers what WOW! portfolio is
     - Take student answers and fill in the gaps

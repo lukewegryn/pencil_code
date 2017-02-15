@@ -170,7 +170,7 @@
 - Pause
     - Teach file saving procedure
     - Save file before you start working
-    - Use format `week#/fielname` -> `week1/snowman`
+    - Use format `week#/filename` -> `week1/snowman`
     - Show students how to access their folder
 - Say
     - If you completed snowman you have choice

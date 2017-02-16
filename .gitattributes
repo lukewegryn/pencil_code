@@ -1,0 +1,2 @@
+protected/**/* filter=git-crypt diff=git-crypt
+.gitkeep -filter -diff

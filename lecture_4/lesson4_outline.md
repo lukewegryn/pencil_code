@@ -18,12 +18,12 @@
 
 ## Lesson
 
-### Hook Feature Project
+### Hook Feature Project (3:30pm)
 
 - Show off at least one of the student's projects
 - Ask for innovations
 
-### Introduction to New Material: Functions
+### Introduction to New Material: Functions (3:35pm)
 
 - Review 
     - button
@@ -41,17 +41,17 @@
 - Go over agenda
 - WOW!
 
-### Activity 1: Cards
+### Activity 1: Cards (3:50pm)
 
 - Hand out background cards
 - Hand out function cards
 - Give 25 minutes of coding time
 
-### Activity 2: Share Projects
+### Activity 2: Share Projects (4:20pm)
 
 - Show off a couple of projects
 
-### Activity 3: Innovations
+### Activity 3: Innovations (4:25pm)
 
 - Three stages of innovation
     1. Generating ideas
@@ -64,7 +64,7 @@
 - Tell students to use these steps today
 - Give students 10-15 minutes
 
-### Assessment: Work Product
+### Assessment: Work Product (4:55pm)
 
 - Handout the assessment
 - Clean up

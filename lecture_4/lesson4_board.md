@@ -2,9 +2,8 @@
 
 ## Featured Projects
 
-1. 
-2. 
-3. 
+1. [savage wyatt - week 3 assessment](http://savagewyatt.pencilcode.net/edit/week3/assement)
+2. [pikathunder - week 3 assessment](http://pikathunder.pencilcode.net/edit/week3/assesment)
 
 Objectives
 
@@ -32,7 +31,7 @@ Objectives
 4. Ask ourselves what went wrong?
 5. Based on answer
     - a) Check all the details in the code
-    - b) Add all mising directions
+    - b) Add all missing directions
     - c) Ask for help
 6. Repeat steps 2-5 until the program works
 7. Celebrate

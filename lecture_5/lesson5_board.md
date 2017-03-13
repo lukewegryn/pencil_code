@@ -1,5 +1,11 @@
 # Lesson 5
 
+## Essential Questions
+
+1. What is the design process?
+2. How do we use the design process?
+3. How do we **debug**?
+
 ## Featured Projects
 
 1. [savagewyatt - week 4 assessment](http://savagewyatt.pencilcode.net/edit/week4/assessment)

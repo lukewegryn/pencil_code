@@ -1,7 +1,5 @@
  Lecture 5
 
-## Materials
-
 ## Essential Questions
 
 1. What is the design process?

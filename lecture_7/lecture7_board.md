@@ -17,7 +17,7 @@
 ## HTML (HyperText Markup Language)
 
 |     Tag     |          Description             |   End Tag   |
-|:-----------:|:--------------------------------:|:-----------:|
+|:-----------:|:---------------------------------|:-----------:|
 | `<html>`    |   Defines an HTML document       |  `</html>`  |
 | `<head>`    |   Defines information about doc  |  `</head>`  |
 | `<title>`   |   Defines title of a document    |  `</title>` |

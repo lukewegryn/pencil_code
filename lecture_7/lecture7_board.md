@@ -14,6 +14,10 @@
 4. More Work Time
 5. Save Assessment for the week
 
+## Example Portfolio
+
+- [Portfolio](http://inventgame.pencilcode.net/edit/day8/example.html)
+
 ## HTML (HyperText Markup Language)
 
 |     Tag     |          Description             |   End Tag   |

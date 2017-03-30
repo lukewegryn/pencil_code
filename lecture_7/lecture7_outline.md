@@ -2,7 +2,7 @@
 
 ## Hook: Feature Project (3:30pm)
 
-- Show example portfolio
+- Show example [portfolio](http://inventgame.pencilcode.net/edit/day8/example.html)
 
 ## Introduction to New Material: Computer Languages (3:40pm)
 

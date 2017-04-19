@@ -2,8 +2,8 @@
 
 ## Featured Projects
 
-1. [savage wyatt - week 3 assessment](http://savagewyatt.pencilcode.net/edit/week3/assement)
-2. [pikathunder - week 3 assessment](http://pikathunder.pencilcode.net/edit/week3/assesment)
+1. [savagewyatt - week 4 assessment](http://savagewyatt.pencilcode.net/edit/week4/assessment)
+2. [sillyartist - week 3 assessment](http://sillyartist.pencilcode.net/edit/week4/ocean)
 
 Objectives
 

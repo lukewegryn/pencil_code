@@ -27,7 +27,7 @@
 
 - Remind students again of final project
 
-## Activity 3: Final Projects work Time (4:45 pm)
+## Activity 3: Final Projects work Time (4:20 pm)
 
 - Students work on final project
 

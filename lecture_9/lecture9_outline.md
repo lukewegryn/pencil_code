@@ -7,6 +7,7 @@
 	2. [Project 2](http://savagewyatt.pencilcode.net/edit/WOW/Portfolio)
 	3. [Project 3](http://bleach101.pencilcode.net/edit/webpage)
 - Show example of finished project
+	- [Finished Project](http://postmastergeneral.pencilcode.net/home/wow/portfolio.html)
 
 ## Introduction to New Material: WOW! Portfolio (3:40pm)
 
